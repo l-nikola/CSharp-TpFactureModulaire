@@ -1,0 +1,14 @@
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\bin\Debug\netcoreapp3.1\FactureModulaire.exe
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\bin\Debug\netcoreapp3.1\FactureModulaire.deps.json
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\bin\Debug\netcoreapp3.1\FactureModulaire.runtimeconfig.json
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\bin\Debug\netcoreapp3.1\FactureModulaire.runtimeconfig.dev.json
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\bin\Debug\netcoreapp3.1\FactureModulaire.dll
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\bin\Debug\netcoreapp3.1\FactureModulaire.pdb
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\obj\Debug\netcoreapp3.1\FactureModulaire.csproj.AssemblyReference.cache
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\obj\Debug\netcoreapp3.1\FactureModulaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\obj\Debug\netcoreapp3.1\FactureModulaire.AssemblyInfoInputs.cache
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\obj\Debug\netcoreapp3.1\FactureModulaire.AssemblyInfo.cs
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\obj\Debug\netcoreapp3.1\FactureModulaire.csproj.CoreCompileInputs.cache
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\obj\Debug\netcoreapp3.1\FactureModulaire.dll
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\obj\Debug\netcoreapp3.1\FactureModulaire.pdb
+C:\Users\fouka\source\repos\FactureModulaire\FactureModulaire\obj\Debug\netcoreapp3.1\FactureModulaire.genruntimeconfig.cache
